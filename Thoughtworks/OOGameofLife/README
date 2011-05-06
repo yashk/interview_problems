@@ -1,0 +1,5 @@
+I have taken following assumptions while developing this coding problem:-
+1.The size of the grid or universe is 25 * 25, but this is configurable.
+2.The patterns would not grow out of universe the while applying the game of life rules.
+
+
